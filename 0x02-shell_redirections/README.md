@@ -12,4 +12,6 @@ Task 3
 Ascript that prints the content of two files
 
 
+Task 4
+Display the last 10 lines of /etc/passwd
 
