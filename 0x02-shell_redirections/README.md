@@ -19,3 +19,6 @@ Display the last 10 lines of /etc/passwd
 Task 5
 Dispaly the first 10 lines of /etc/passwd
 
+
+Task 8
+A script that redirects content of ls -la 
