@@ -1,2 +1,9 @@
+Task 0
 This file contains a script that prints hello world
+
+Task 1
 A Script that displays a confused smiley
+
+Task 2
+A script that prints the content of /etc/passwd
+
