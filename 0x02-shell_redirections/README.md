@@ -7,3 +7,9 @@ A Script that displays a confused smiley
 Task 2
 A script that prints the content of /etc/passwd
 
+
+Task 3
+Ascript that prints the content of two files
+
+
+
